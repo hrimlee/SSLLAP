@@ -1,7 +1,7 @@
 # SSLLAP
 This repository contains the code for 
 Self-Supervised Learning with Attention-based Latent Signal Augmentation for Sleep Staging with Limited Labeled Data
-
+![model_img](./img/model_b.png)
 If the code or the paper has been useful in your research, please add a citation to our work: 
 
 # Dependencies
