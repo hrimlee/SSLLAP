@@ -14,7 +14,7 @@ If the code or the paper has been useful in your research, please add a citation
 
 # Datasets 
 
-Dataset used in our paper, [SleepEDFX](https://www.physionet.org/content/sleep-edfx/1.0.0/) and [ISRUC](https://sleeptight.isr.uc.pt/?page_id=48) can be downloaded from [here](https://drive.google.com/drive/folders/1p2_CExyUa_jjByPI2c8ElyrrdHTwKnAY?usp=sharing). Each data is sliced as segments composed of one epoch (30 second).
+Dataset used in our paper, [SleepEDFX](https://www.physionet.org/content/sleep-edfx/1.0.0/) and [ISRUC](https://sleeptight.isr.uc.pt/?page_id=48) can be downloaded from [here](https://drive.google.com/drive/folders/1p2_CExyUa_jjByPI2c8ElyrrdHTwKnAY?usp=sharing). Each data is sliced as segments composed of one epoch (30 seconds).
 # Training
 In order to train a model for SSLLAP, use the main.py script. 
 Following are the main parameters for training:
