@@ -129,7 +129,9 @@ class Front_end(nn.Module):
         self.fc_lbn = nn.BatchNorm1d(1024)
 
         self.attn = Attention()
-
+        
+        utils.initialize_weights(self)
+        
     def forward(self, input, mask, local): #[20, 1, 3000]
         x = F.leaky_relu(self.bn1(self.conv1(input)),0.2)
         x = F.leaky_relu(self.bn2(self.conv2(x)),0.2)
