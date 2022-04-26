@@ -9,8 +9,7 @@ If the code or the paper has been useful in your research, please add a citation
 - CPU or NVIDIA GPU
 
 # Datasets 
-For our paper, you can train on SleepEDFX or ISRUC by downloading data from here. 
-We put test data of SleepEDFX on data folder. 
+For our paper, you can train on [SleepEDFX](https://www.physionet.org/content/sleep-edfx/1.0.0/) or [ISRUC](https://sleeptight.isr.uc.pt/?page_id=48) by downloading data. 
 
 # Training
 In order to train a model for SSLLAP, use the main.py script. 
