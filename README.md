@@ -35,7 +35,7 @@ python main.py --klwt 10 --segment 6 --lambda_g 0.5 --lambda_l 0.5
 </code></pre>
 
 # Evaluation
-After representation learning stage, use finetune.py to evaluate our model.
+After the representation learning stage, use finetune.py to evaluate our model.
 <pre><code>
 python finetune.py
 </code></pre>
