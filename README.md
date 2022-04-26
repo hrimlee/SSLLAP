@@ -5,8 +5,12 @@ Self-Supervised Learning with Attention-based Latent Signal Augmentation for Sle
 If the code or the paper has been useful in your research, please add a citation to our work: 
 
 # Dependencies
-- Python3
 - CPU or NVIDIA GPU
+- Python 3.9.7 x64
+- pytorch 1.11.0 
+- numpy 1.21.5
+- scikit-learn 1.0.2 
+- scipy 1.8.0
 
 # Datasets 
 For our paper, you can train on [SleepEDFX](https://www.physionet.org/content/sleep-edfx/1.0.0/) or [ISRUC](https://sleeptight.isr.uc.pt/?page_id=48) by downloading data. 
