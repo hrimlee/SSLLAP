@@ -1,7 +1,7 @@
 import argparse, os, inspect
 
 from torch.backends import cudnn
-from model_v5 import SSLLAP
+from model import SSLLAP
 from args import parse_args
 
 
